@@ -8,14 +8,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+## Sobre mi 
 
-📊 Tengo una amplia experiencia en el análisis de datos y la minería de datos, utilizando Python como mi herramienta principal. Conozco a Pandas, NumPy, Matplotlib y Seaborn tan bien que podrían llamarme "El Mago de los Datos". Además, soy un maestro en el arte de contar historias de datos utilizando herramientas de visualización como Power BI y Tableau. También estoy familiarizado con el lenguaje SQL y tengo experiencia trabajando con bases de datos, incluyendo SQLite. Puedo hacer que los datos cobren vida de tal manera que hasta los números más tímidos se sientan como estrellas de cine en una película de Hollywood. 😎
+📊 Tengo una amplia experiencia en el data analysis & data science, utilizando *Python* como mi herramienta principal. Conozco a Pandas, NumPy, Matplotlib y Seaborn tan bien que podrían llamarme "El Mago de los Datos". Además, soy un maestro en el arte de contar historias de datos utilizando herramientas de visualización como Power BI y Tableau. También estoy familiarizado con el lenguaje SQL y tengo experiencia trabajando con bases de datos, incluyendo SQLite. Puedo hacer que los datos cobren vida de tal manera que hasta los números más tímidos se sientan como estrellas de cine en una película de Hollywood. 😎
 
 
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *Realizados*
 <table>
 <tr>
 <td width="50%">
