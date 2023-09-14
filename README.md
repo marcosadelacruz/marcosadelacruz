@@ -1,21 +1,43 @@
 <div align="center">
 <h1 align="center">Hola, Yo soy Alejandro 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.imgur.com/weNbhGZ.png"> <!-- Imagen principal. -->
+
+<!-- Shields. -->
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
+<!-- Cuerpo de la bio. -->
 
 ## Sobre mi 
 
-📊 Tengo una amplia experiencia en el data analysis & data science, utilizando *Python* como mi herramienta principal. Conozco a Pandas, NumPy, Matplotlib y Seaborn tan bien que podrían llamarme "El Mago de los Datos". Además, soy un maestro en el arte de contar historias de datos utilizando herramientas de visualización como Power BI y Tableau. También estoy familiarizado con el lenguaje SQL y tengo experiencia trabajando con bases de datos, incluyendo SQLite. Puedo hacer que los datos cobren vida de tal manera que hasta los números más tímidos se sientan como estrellas de cine en una película de Hollywood. 😎
+📊 Tengo una amplia experiencia en el data analysis & data science, utilizando Python como mi herramienta principal. Conozco a Pandas, NumPy, Matplotlib y Seaborn tan bien que podrían llamarme "El Mago de los Datos". Yo soy un maestro en el arte de contar historias de datos utilizando herramientas de visualización como Power BI y Tableau. Estoy familiarizado con el lenguaje SQL y tengo experiencia trabajando con bases de datos, incluyendo SQLite. Puedo hacer que los datos cobren vida de tal manera que hasta los números más tímidos se sientan como estrellas de cine en una película de Hollywood. 😎
+
+He trabajado en diversos tipos de analisis de datas como son: 
+<div align="center">
+
+| Tipo de Análisis                 | Descripción  del aAnálisis                                                                    |
+|----------------------------------|-------------------------------------------------------------------------------|
+| Estadísticas Descriptivas        | Resumen de datos numéricos, como media, mediana, desviación estándar, etc.    |
+| Análisis de Tendencias           | Identificación de patrones o tendencias en los datos a lo largo del tiempo.  |
+| Análisis de Segmentación         | Agrupación de datos en segmentos basados en ciertas características.         |
+| Análisis de Regresión            | Modelado de la relación entre variables y predicción de valores futuros.    |
+| Análisis de Clasificación       | Categorización de datos en grupos o clases basados en características.      |
+| Análisis de Series Temporales   | Análisis de datos que se recopilan en intervalos de tiempo específicos.     |
+| Análisis de Clusterización      | Agrupación de datos similares en clusters o grupos basados en similitudes.   |
+| Análisis de Anomalías           | Identificación de puntos de datos inusuales o atípicos en un conjunto.      |
+| Análisis de Redes Sociales      | Estudio de relaciones y patrones en redes sociales y datos de redes.        |
+| Análisis de Texto               | Extracción de información y conocimiento de datos de texto no estructurados.|
+| Análisis de Sentimiento         | Determinación del sentimiento positivo, negativo o neutro en texto o datos.  |
+
+</div>
+
+Con relacion al data cients 
 
 
 <br>
 
-## Proyectos *Realizados*
+## Proyectos *Realizados* 
 <table>
 <tr>
 <td width="50%">
