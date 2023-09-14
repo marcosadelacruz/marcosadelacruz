@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, Yo soy Alejandro 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png"> <!-- Imagen principal. -->
+    <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fox5taolzp9ob1.png%3Fwidth%3D2560%26format%3Dpng%26auto%3Dwebp%26s%3Df06558435ae6456130e7b62f3b2f41a8c33a7dd3" alt="Imagen de Reddit">
 
 <!-- Shields. -->
 
