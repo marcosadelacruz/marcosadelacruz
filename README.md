@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, Yo soy Alejandro 👋</h1>
 </div>
-    <img src="https://preview.redd.it/ox5taolzp9ob1.png?width=2560&format=png&auto=webp&s=f06558435ae6456130e7b62f3b2f41a8c33a7dd3">
+    <img src="https://preview.redd.it/az79vgx6paob1.png?width=960&crop=smart&auto=webp&s=7c7578cac4adab29e65847880976e126a6b777b0">
 
-<!-- Shields. -->
+<!-- Shields -->
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 
@@ -11,31 +11,21 @@
 
 ## Sobre mi 
 
-📊 Tengo una amplia experiencia en el data analysis & data science, utilizando Python como mi herramienta principal. Conozco a Pandas, NumPy, Matplotlib y Seaborn tan bien que podrían llamarme "El Mago de los Datos". Yo soy un maestro en el arte de contar historias de datos utilizando herramientas de visualización como Power BI y Tableau. Estoy familiarizado con el lenguaje SQL y tengo experiencia trabajando con bases de datos, incluyendo SQLite. Puedo hacer que los datos cobren vida de tal manera que hasta los números más tímidos se sientan como estrellas de cine en una película de Hollywood. 😎
+📊 Tengo una amplia experiencia en el análisis de datos y la ciencia de datos, considero a Python como mi herramienta principal. Mis conocimientos en Pandas, NumPy, Matplotlib y Seaborn son tan sólidos que podrían llamarme "El Mago de los Datos". Soy un experto en contar historias a través de datos, y utilizo herramientas de visualización como Power BI y Tableau para dar vida a los datos. Soy competente en el lenguaje SQL y tengo experiencia trabajando con bases de datos, en especial SQLite. Mi habilidad radica en convertir los datos en narrativas cautivadoras, haciendo que incluso los números más tímidos se sientan como estrellas de cine en una superproducción de Hollywood. 😎
 
-He trabajado en diversos tipos de analisis de datas como son: 
-<div align="center">
+Mis áreas de experiencia incluyen:
 
-| Tipo de Análisis                 | Descripción  del Análisis                                                                    |
-|----------------------------------|-------------------------------------------------------------------------------|
-| Estadísticas Descriptivas        | Resumen de datos numéricos, como media, mediana, desviación estándar, etc.    |
-| Análisis de Tendencias           | Identificación de patrones o tendencias en los datos a lo largo del tiempo.  |
-| Análisis de Segmentación         | Agrupación de datos en segmentos basados en ciertas características.         |
-| Análisis de Regresión            | Modelado de la relación entre variables y predicción de valores futuros.    |
-| Análisis de Clasificación       | Categorización de datos en grupos o clases basados en características.      |
-| Análisis de Series Temporales   | Análisis de datos que se recopilan en intervalos de tiempo específicos.     |
-| Análisis de Clusterización      | Agrupación de datos similares en clusters o grupos basados en similitudes.   |
-| Análisis de Anomalías           | Identificación de puntos de datos inusuales o atípicos en un conjunto.      |
-| Análisis de Redes Sociales      | Estudio de relaciones y patrones en redes sociales y datos de redes.        |
-| Análisis de Texto               | Extracción de información y conocimiento de datos de texto no estructurados.|
-| Análisis de Sentimiento         | Determinación del sentimiento positivo, negativo o neutro en texto o datos.  |
+- Programación en Python, R y SQL.
+- Conocimientos sólidos en estadísticas.
+- Machine Learning.
+- Visualización de datos.
+- Comunicación efectiva de resultados.
 
-</div>
-
-Con relacion al data cients 
+Todo esto sin mencionar mi buen conocimiento en HTML ( o como crees que yo hice esto) pero eso es otra historia para otro capítulo. 
 
 
 <br>
+<!-- Tabla de proyectos -->
 
 ## Proyectos *Realizados* 
 <table>
