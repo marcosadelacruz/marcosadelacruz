@@ -16,7 +16,7 @@
 He trabajado en diversos tipos de analisis de datas como son: 
 <div align="center">
 
-| Tipo de Análisis                 | Descripción  del aAnálisis                                                                    |
+| Tipo de Análisis                 | Descripción  del Análisis                                                                    |
 |----------------------------------|-------------------------------------------------------------------------------|
 | Estadísticas Descriptivas        | Resumen de datos numéricos, como media, mediana, desviación estándar, etc.    |
 | Análisis de Tendencias           | Identificación de patrones o tendencias en los datos a lo largo del tiempo.  |
