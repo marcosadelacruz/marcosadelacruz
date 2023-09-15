@@ -34,13 +34,14 @@ Todo esto sin mencionar mi buen conocimiento en HTML ( o como crees que yo hice 
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<img src="https://preview.redd.it/ml9tqdot7fob1.png?width=960&crop=smart&auto=webp&s=2712d354cd90258ac70130e977c60e53c55c5797" alt="Mi imagen">
+</body>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/¡Quiero%20esto!-grey?style=for-the-badge&logo=whatsapp)">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
