@@ -32,7 +32,7 @@ Todo esto sin mencionar mi buen conocimiento en HTML ( o como crees que yo hice 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Comprende mejor a tus clientes existentes y toma decisiones estratégicas basadas en datos.</h3>
 <div align="center">
 <img src="https://preview.redd.it/ml9tqdot7fob1.png?width=960&crop=smart&auto=webp&s=2712d354cd90258ac70130e977c60e53c55c5797" alt="Mi imagen">
 </body>
