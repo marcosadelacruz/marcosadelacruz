@@ -20,6 +20,7 @@ Mis áreas de experiencia incluyen:
 - Machine Learning.
 - Visualización de datos.
 - Comunicación efectiva de resultados.
+- Y claro Excel.
 
 Todo esto sin mencionar mi buen conocimiento en HTML ( o como crees que yo hice esto) pero eso es otra historia para otro capítulo. 
 
