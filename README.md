@@ -44,7 +44,7 @@ Todo esto sin mencionar mi buen conocimiento en HTML ( o como crees que yo hice 
 <img src="https://img.shields.io/badge/Quiero%20esto!!-grey?style=for-the-badge&logo=whatsapp">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> Este código realiza un análisis de segmentación de clientes utilizando el algoritmo K-Means y las características proporcionadas en tus datos para agrupar a los clientes en clusters con características similares. Las etiquetas de cluster resultantes te ayudarán a comprender mejor a tus clientes y a tomar decisiones estratégicas basadas en esta segmentación. Muy facil! </p>
 </div>
                                                                                       
 </td>
